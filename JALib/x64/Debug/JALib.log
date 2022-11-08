@@ -1,0 +1,7 @@
+﻿  Assembling JAMasm.asm...
+  pch.cpp
+  dllmain.cpp
+  JALib.cpp
+  Generating Code...
+     Creating library C:\Users\Lenovo\Desktop\JA-PROJEKT\JA-Projekt\x64\Debug\JALib.lib and object C:\Users\Lenovo\Desktop\JA-PROJEKT\JA-Projekt\x64\Debug\JALib.exp
+  JALib.vcxproj -> C:\Users\Lenovo\Desktop\JA-PROJEKT\JA-Projekt\x64\Debug\JALib.dll
