@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  JACpp.cpp
+  JALib2.cpp
+     Trwa tworzenie biblioteki C:\Users\48500\Desktop\Semestr 5\Zdj smiw\Projekt JA testowy\JA-Projekt\x64\Release\JALib2.lib i obiektu C:\Users\48500\Desktop\Semestr 5\Zdj smiw\Projekt JA testowy\JA-Projekt\x64\Release\JALib2.exp
+  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  JALib2.vcxproj -> C:\Users\48500\Desktop\Semestr 5\Zdj smiw\Projekt JA testowy\JA-Projekt\x64\Release\JALib2.dll

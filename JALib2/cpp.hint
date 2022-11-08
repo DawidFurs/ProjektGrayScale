@@ -1,0 +1,2 @@
+#define JALIB2_API __declspec(dllexport)
+#define JALIB2_API __declspec(dllimport)
