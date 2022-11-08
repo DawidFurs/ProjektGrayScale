@@ -1,0 +1,10 @@
+﻿  Grayscale.cpp
+C:\Users\48500\Desktop\Semestr 5\Zdj smiw\Projekt JA testowy\JA-Projekt\Grayscale.cpp(62,23): warning C4244: "inicjowanie": konwersja z "double" do "uint32_t", możliwa utrata danych
+C:\Users\48500\Desktop\Semestr 5\Zdj smiw\Projekt JA testowy\JA-Projekt\Grayscale.cpp(75,22): warning C4244: "inicjowanie": konwersja z "double" do "uint32_t", możliwa utrata danych
+  Window.cpp
+C:\Users\48500\Desktop\Semestr 5\Zdj smiw\Projekt JA testowy\JA-Projekt\Window.cpp(81,20): warning C4244: "return": konwersja z "WPARAM" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 307 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  JA-Projekt.vcxproj -> C:\Users\48500\Desktop\Semestr 5\Zdj smiw\Projekt JA testowy\JA-Projekt\x64\Release\JA-Projekt.exe
